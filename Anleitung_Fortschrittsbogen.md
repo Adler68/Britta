@@ -15,6 +15,16 @@ Der Bogen macht Veränderung sichtbar, für Klient und Beratende gemeinsam. Er i
 | Rückschritte sind neutral | Sinkende Zahl = Gesprächsanlass, kein Fehler, keine Konsequenz |
 | Gleicher Kern für alle Verhaltensweisen | Verhaltensspezifisches steht nur im Feld «Thema» und in der Spalte «Mein Mass» |
 
+**Zugehörige Grafiken** (Nummern wie im Leitfaden, Kap. C5.1)
+
+| Nr. | Grafik | Bezug in dieser Anleitung | Ort |
+|---|---|---|---|
+| G8 | Fortschrittsbogen, 2 Seiten A4 (Seite 1 Lebensbereiche und Netz, Seite 2 Kurz-Check) | Kap. 3 bis 5, Ausdruck für Klienten | https://claude.ai/artifact/AJv77w7MHzptenWEA55Vwc |
+| G4a | Beratungsweg in fünf Schritten für Klienten | Kap. 2, Zuordnung der Messpunkte | https://claude.ai/artifact/Xvr7veMSE1MJVGUJvniSQX |
+| G4b | Fachblatt für Beratende (Techniken und Beachten je Schritt) | Kap. 2 (Tabelle «Techniken, Beachten und Bogen je Schritt»), Kap. 6 | https://claude.ai/artifact/MaxXq5yhpumwYTgEcskAeJ |
+
+Die Artefakte sind privat und nur über das Share-Menü der jeweiligen Seite freizugeben.
+
 ## 2. Überblick: Was wann ausgefüllt wird
 
 | Teil | Wann | Dauer | Wer schreibt |
@@ -26,6 +36,26 @@ Der Bogen macht Veränderung sichtbar, für Klient und Beratende gemeinsam. Er i
 | Seite 2, Meine Ziele (−2 bis +2) | Ziele festlegen in Schritt 3; Stand bei Beginn, Mitte, Ende | ca. 5 Min. | Klient mit Beratenden |
 
 Zuordnung zu den fünf Schritten: Seite 1 «Beginn» im Schritt 2 (Verstehen), Ziele in Schritt 3, «Mitte» typisch in Schritt 4, «Ende» in Schritt 5, «3 Mt.» als Nachkontrolle.
+
+### Techniken, Beachten und Bogen je Schritt (Fachblatt G4b)
+
+Die Inhalte des Fachblatts G4b, ergänzt um den Einsatz des Bogens (G8) im jeweiligen Schritt. Die Einstufung der Techniken ist ein Vorschlag und im Team zu bestätigen. Beratung, nicht Psychotherapie.
+
+| Schritt | Ziel | Techniken | Beachten | Bogen (G8) |
+|---|---|---|---|---|
+| 1 Ankommen | Vertrauen, Risiko und Anliegen geklärt | Auftrag und Anliegen klären. Motivierende Gesprächsführung (offene Fragen, Ambivalenz aufgreifen). Verhaltensanamnese (was, wie oft, wie lange, Folgen). Kurze Psychoedukation. Erstziel skizzieren | Suizidalität und Krise direkt erfragen. Vertraulichkeit und Schweigepflicht früh erklären. Scham: Sprache ohne Moral, «Sucht» nur, wenn die Person es sagt. Tempo der Person folgen | Seite 2: Kurz-Check ab dem ersten Gespräch einführen |
+| 2 Verstehen | Funktion, Auslöser und Folgen klar | Selbstbeobachtungsprotokoll (Häufigkeit, Gedanken, Gefühle, Auslöser, Folgen). Funktionale Verhaltensanalyse. Kosten-Nutzen-Analyse. Optional: Screener als Gesprächsanker (BSAS, PBS, CSBD-19, PPCS-6) | Komorbidität erfragen und zuweisen, nicht diagnostizieren. Bagatellisieren und Verheimlichen sind kein Widerstand, sondern Teil des Bildes. Selbstbericht ist verzerrbar, Screener sind keine Diagnose | Seite 1: Lebensbereiche und Netz, Messpunkt Beginn ● |
+| 3 Ziele setzen | Gemeinsame, messbare Ziele auf drei Ebenen | Zieloffene Arbeit (Abstinenz oder Kontrolle). Staffelung Rahmen-, Teil-, Handlungsziel. SMART formulieren. Goal Attainment Scaling −2 bis +2. Imaginationsübung: Zukunft mit und ohne Verhalten | Ziele setzt die Person, Zahlen nicht vorgeben. Realistisch und erreichbar, das stützt die Motivation. Abstinenzausmass je Verhalten (Kaufen nicht ganz meidbar, Ziel bedarfsgerecht) | Seite 2: bis 2 Ziele (−2 bis +2), «Mein Mass» festlegen, Stand Beginn |
+| 4 Verändern | Kontrolle zurückgewinnen, Alternativen aufbauen | Stimuluskontrolle und Reaktionsverzögerung. Verhaltensaktivierung, Wochenstruktur. Craving-Skills, Selbstsperren, Limiten. Geld- und Schuldenmanagement, Schuldenberatung. Einfache Strategien für Emotionsregulation und Stress. Angehörige einbeziehen, mit Einwilligung | Grenzbereich: Exposition mit Reaktionsverhinderung und systematische kognitive Umstrukturierung eher Psychotherapie. Abbrüche und Rückfälle sind zu erwarten. Angehörige nicht konfrontativ coachen | Seite 1: Messpunkt Mitte ■. Seite 2: Stand der Ziele, Kurve und «Mein Mass» laufend |
+| 5 Festigen | Erreichtes sichern, Weiterführung klären | Rückfallprophylaxe (Frühwarnzeichen, Plan für Ausrutscher). Zielerreichung auswerten. Soziales Netz und reale Kontakte stärken. Rückmeldung an Hausarzt, mit Einwilligung. Katamnese nach etwa drei Monaten | Triage prüfen: Ziele trotz Mitarbeit nicht erreicht, Komorbidität im Vordergrund oder Wunsch nach Tiefenarbeit. Weiterverweisung gemeinsam besprechen, Kostenfrage klären | Seite 1: Messpunkt Ende ▲, nach 3 Monaten ◆. Seite 2: Stand der Ziele |
+
+**In jedem Schritt im Blick**
+
+| Thema | Hinweis |
+|---|---|
+| Suizidrisiko | Bei Glücksspiel gut belegt, bei Kauf-, Sex- und Pornografiesucht übertragbar. Bei Verschuldung und Scham besonders aufmerksam. Tiefe Werte im Bogen sind ein Anlass, nachzufragen |
+| Sofort ärztlich abklären | Akute Suizidalität, Verdacht auf Manie oder Psychose, schwere Depression im Vordergrund |
+| Grenze | Der Behandlungsauftrag entscheidet, nicht die Methode. Hintergründe besprechen ist Beratung, systematisch behandeln ist Psychotherapie |
 
 ## 3. Seite 2: Kurz-Check (jedes Gespräch)
 
