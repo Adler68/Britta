@@ -6,13 +6,45 @@ Dieser Leitfaden ist ein Entwurf zur Besprechung im Team. Er stützt sich auf di
 
 ---
 
-## 0. Zweck, Geltungsbereich, Nutzung
+## Inhalt
 
-### 0.1 Zweck
+Der Leitfaden ist in sieben Teile gegliedert. Jeder Teil beginnt mit einem Inhaltsverzeichnis seiner Kapitel.
+
+- **[Teil 1: Zielstellung und Geltungsbereich](#teil-1-zielstellung-und-geltungsbereich)** (Kap. 0): Für wen der Leitfaden gilt, was er leistet und wie die Marker im Text zu lesen sind.
+- **[Teil 2: Grundlegende Informationen](#teil-2-grundlegende-informationen)** (Kap. 1–5): Was eine Verhaltenssucht ist, welche Formen es gibt, Stigma, Entstehung, Komorbiditäten und Suizidrisiko.
+- **[Teil 3: Grundlagen der Beratung](#teil-3-grundlagen-der-beratung)** (Kap. 6): Haltung, Abgrenzung zur Psychotherapie, Beratungsweg und Techniken.
+- **[Teil 4: Vorgehensmodell](#teil-4-vorgehensmodell)** (Kap. 7–8): Gesprächsablauf der ersten zwei Sitzungen, Ziele, Fortschritt und Messung.
+- **[Teil 5: Zielgruppen und Schnittstellen](#teil-5-zielgruppen-und-schnittstellen)** (Kap. 9–11): Erste Schritte für Betroffene, Angehörige sowie Arbeitgebende und Ausbildende.
+- **[Teil 6: Triage und Krisen](#teil-6-triage-und-krisen)** (Kap. 12–13): Wer detaillierter berät, Angebote und Kosten, Vorgehen bei Suizidalität.
+- **[Teil 7: Anhang und offene Punkte](#teil-7-anhang-und-offene-punkte)** (Kap. 14–16): Grafiken, Quellen und offene Punkte vor dem Einsatz.
+
+**Einstieg nach Rolle**
+
+- Betroffene: Kap. 3, 9
+- Angehörige: Kap. 10
+- Arbeitgebende, Ausbildende: Kap. 11
+- Beratende: Kap. 6, 7, 8, 12
+- Kooperationspartner: Kap. 12
+
+---
+
+## Teil 1: Zielstellung und Geltungsbereich
+
+**Inhalt dieses Teils**
+
+- [0. Zweck, Geltungsbereich, Nutzung](#0-zweck-geltungsbereich-nutzung)
+  - [0.1 Zweck](#01-zweck)
+  - [0.2 Geltungsbereich](#02-geltungsbereich)
+  - [0.3 Persona und Stakeholder](#03-persona-und-stakeholder)
+  - [0.4 Marker im Text](#04-marker-im-text)
+
+### 0. Zweck, Geltungsbereich, Nutzung
+
+#### 0.1 Zweck
 
 Der Leitfaden gibt Beratenden Sicherheit in der Arbeit mit Verhaltenssüchten. Er zeigt den bio-psycho-sozialen Kontext der Klientinnen und Klienten, erleichtert die Psychoedukation und ermöglicht Beratungen auf hohem fachlichem Niveau. Er ist ein Gerüst aus Bausteinen, kein starres Programm (anders als das Konzept ambulanter Alkoholentzug, dessen Form er übernimmt).
 
-### 0.2 Geltungsbereich
+#### 0.2 Geltungsbereich
 
 | Punkt | Festlegung |
 |---|---|
@@ -23,7 +55,7 @@ Der Leitfaden gibt Beratenden Sicherheit in der Arbeit mit Verhaltenssüchten. E
 | Abgrenzung | Keine psychotherapeutische Behandlung (Kap. 6.2) |
 | Grenzfall | Pornografie ist meist online, gehört fachlich aber zur zwanghaften Sexualverhaltensstörung. Sie wird hier behandelt, mit Verweis auf den Mediensucht-Leitfaden für Social Media, Gaming, Streaming [Vorschlag] |
 
-### 0.3 Persona und Stakeholder
+#### 0.3 Persona und Stakeholder
 
 **Persona Beratende:** Sozialarbeitende mit Erfahrung im Suchtbereich. Beratung zu den regulären Öffnungszeiten. Enge Kooperation mit Dritten ist ausdrücklich gewünscht (Hausärztinnen und Hausärzte, psychiatrische Institutionen, Kliniken, Spitäler, Spitex, Pro Infirmis, andere Fachstellen). Regelmässiger Austausch mit anderen Suchtberatungsstellen. Intervision, Fallbesprechungen und Einzelsupervision gehören zum Alltag. Der Leitfaden richtet sich auch an neue Mitarbeitende und Personen in Ausbildung.
 
@@ -38,7 +70,7 @@ Der Leitfaden gibt Beratenden Sicherheit in der Arbeit mit Verhaltenssüchten. E
 
 Grafik G6 (Stakeholder-Karte): siehe Kap. 14.
 
-### 0.4 Marker im Text
+#### 0.4 Marker im Text
 
 | Marker | Bedeutung |
 |---|---|
@@ -47,15 +79,38 @@ Grafik G6 (Stakeholder-Karte): siehe Kap. 14.
 | [eigenes Wissen] | Fachlich geläufig, nicht durch Quelle geprüft, vor Verwendung verifizieren |
 | [Lücke] | Nicht recherchiert oder nicht auffindbar |
 
-### 0.5 Aufbau und Grafiken
-
-Kap. 1–5 Grundlagen · Kap. 6–8 Beratung, Abfrage, Ziele · Kap. 9–11 erste Schritte und weitere Adressaten · Kap. 12 Triage · Kap. 13 Krisen · Kap. 14 Grafiken und Anhang · Kap. 15 Quellen · Kap. 16 offene Punkte.
-
 ---
 
-## 1. Was ist eine Verhaltenssucht?
+## Teil 2: Grundlegende Informationen
 
-### 1.1 Arbeitsdefinition
+**Inhalt dieses Teils**
+
+- [1. Was ist eine Verhaltenssucht?](#1-was-ist-eine-verhaltenssucht)
+  - [1.1 Arbeitsdefinition](#11-arbeitsdefinition)
+  - [1.2 Klassifikation: ICD-10 und ICD-11](#12-klassifikation-icd-10-und-icd-11)
+- [2. Welche Verhaltenssüchte gibt es?](#2-welche-verhaltenssüchte-gibt-es)
+  - [2.1 Übersicht](#21-übersicht)
+  - [2.2 Steckbrief Kaufsucht](#22-steckbrief-kaufsucht)
+  - [2.3 Steckbrief Arbeitssucht](#23-steckbrief-arbeitssucht)
+  - [2.4 Steckbrief Sex- und Pornografiesucht (CSBD)](#24-steckbrief-sex--und-pornografiesucht-csbd)
+  - [2.5 Steckbrief Sportsucht](#25-steckbrief-sportsucht)
+  - [2.6 Kurzmodul weitere Formen [Vorschlag]](#26-kurzmodul-weitere-formen-vorschlag)
+- [3. Stigma und Scham](#3-stigma-und-scham)
+  - [3.1 Befund](#31-befund)
+  - [3.2 Besondere Stigmata](#32-besondere-stigmata)
+  - [3.3 Haltung der Beratenden [Vorschlag]](#33-haltung-der-beratenden-vorschlag)
+- [4. Entstehung und Äusserung](#4-entstehung-und-äusserung)
+  - [4.1 Entstehung (Q: Ärzteblatt)](#41-entstehung-q-ärzteblatt)
+  - [4.2 Teufelskreis für die Psychoedukation [Vorschlag]](#42-teufelskreis-für-die-psychoedukation-vorschlag)
+  - [4.3 Typische Äusserungen (Q: Auftragsvorlage; Ärzteblatt)](#43-typische-äusserungen-q-auftragsvorlage-ärzteblatt)
+- [5. Komorbiditäten und Belastungen](#5-komorbiditäten-und-belastungen)
+  - [5.1 Komorbiditäten](#51-komorbiditäten)
+  - [5.2 Belastungen](#52-belastungen)
+  - [5.3 Suizidrisiko](#53-suizidrisiko)
+
+### 1. Was ist eine Verhaltenssucht?
+
+#### 1.1 Arbeitsdefinition
 
 Exzessiv betriebene, zwanghaft wiederholte Verhaltensweisen mit unwiderstehlichem Drang, gedanklicher Vereinnahmung, Kontrollverlust über Beginn, Häufigkeit, Intensität, Dauer und Beendigung, Fortführung trotz negativer Folgen und starker Beeinträchtigung in verschiedenen Lebensbereichen (Q: Ärzteblatt).
 
@@ -64,7 +119,7 @@ Zwei Unterscheidungen sind für die Beratung zentral:
 - **Viel ist nicht gleich krankhaft.** Entscheidend sind Kontrollverlust, Leidensdruck und Beeinträchtigung über längere Zeit, nicht die Menge (Q: therapie.de; aponet).
 - **Beratende diagnostizieren nicht.** Sie erfassen systematisch, was vorliegt, und weisen zu (Kap. 12).
 
-### 1.2 Klassifikation: ICD-10 und ICD-11
+#### 1.2 Klassifikation: ICD-10 und ICD-11
 
 | Verhalten | ICD-10 | ICD-11 | Beleg |
 |---|---|---|---|
@@ -88,9 +143,9 @@ Grafik G1 (Landkarte der Verhaltenssüchte mit ICD-Zuordnung): siehe Kap. 14.
 
 ---
 
-## 2. Welche Verhaltenssüchte gibt es?
+### 2. Welche Verhaltenssüchte gibt es?
 
-### 2.1 Übersicht
+#### 2.1 Übersicht
 
 | Kategorie | Formen | Im Leitfaden |
 |---|---|---|
@@ -104,7 +159,7 @@ Fachverband Sucht nennt in einem Kursangebot: Glücksspiel, Internet/Medien, Kau
 
 **Häufigkeit (Deutschland, Richtwerte):** Glücksspiel ca. 1 %, Internetspiele ca. 1 %, Kaufsucht ca. 5 % (Q: Ärzteblatt 2020); Kaufsuchtgefährdung 5–7 % der Erwachsenen (Q: Thieme „Kaufsucht"). Frauen sind häufiger von Kaufsucht betroffen, Männer eher von Glücksspiel und Sexsucht (Q: Psychosomatik-Studie). Schweizer Zahlen: [Lücke].
 
-### 2.2 Steckbrief Kaufsucht
+#### 2.2 Steckbrief Kaufsucht
 
 | Aspekt | Inhalt |
 |---|---|
@@ -117,7 +172,7 @@ Fachverband Sucht nennt in einem Kursangebot: Glücksspiel, Internet/Medien, Kau
 | Screener | BSAS, PBS (Kap. 8.6) |
 | Wirksamkeit | Keine evidenzbasierten Leitlinien, Hinweise auf Wirksamkeit störungsspezifischer KVT-Gruppentherapie (Q: Thieme „Kaufsucht"; Mueller/de Zwaan 2008) |
 
-### 2.3 Steckbrief Arbeitssucht
+#### 2.3 Steckbrief Arbeitssucht
 
 | Aspekt | Inhalt |
 |---|---|
@@ -129,7 +184,7 @@ Fachverband Sucht nennt in einem Kursangebot: Glücksspiel, Internet/Medien, Kau
 | Besonderheit | Leistungsmuster: Zahlen und Ziele dürfen nicht zum Wettbewerb werden (Kap. 8.7) |
 | Screener | Work-BAT, Bergen Work Addiction Scale [eigenes Wissen, nicht recherchiert] |
 
-### 2.4 Steckbrief Sex- und Pornografiesucht (CSBD)
+#### 2.4 Steckbrief Sex- und Pornografiesucht (CSBD)
 
 | Aspekt | Inhalt |
 |---|---|
@@ -142,7 +197,7 @@ Fachverband Sucht nennt in einem Kursangebot: Glücksspiel, Internet/Medien, Kau
 | Wirksamkeit | Für Pornografie-Nutzungsstörung fehlen bisher methodisch hochwertige Therapiestudien; ein Manual (PornLoS) erscheint laut Verlag 2026 (Q: Thieme PornLoS; Hogrefe) |
 | Screener | CSBD-19 (Kurzform CSBD-7), PPCS-6 (Kap. 8.6) |
 
-### 2.5 Steckbrief Sportsucht
+#### 2.5 Steckbrief Sportsucht
 
 | Aspekt | Inhalt |
 |---|---|
@@ -154,15 +209,15 @@ Fachverband Sucht nennt in einem Kursangebot: Glücksspiel, Internet/Medien, Kau
 | Besonderheit | Leistungsmuster: Kap. 8.7 |
 | Screener | Exercise Addiction Inventory [eigenes Wissen, nicht recherchiert] |
 
-### 2.6 Kurzmodul weitere Formen [Vorschlag]
+#### 2.6 Kurzmodul weitere Formen [Vorschlag]
 
 Beziehungssucht, Sammeln und Horten. Horten ist als Komorbidität zur Kaufsucht beschrieben (Q: Ärzteblatt). Für diese Formen gilt: Funktion des Verhaltens erfassen, Leidensdruck und Beeinträchtigung prüfen, Komorbidität erfragen, bei Bedarf zuweisen. Materialien zu diesen Formen sind nicht recherchiert [Lücke].
 
 ---
 
-## 3. Stigma und Scham
+### 3. Stigma und Scham
 
-### 3.1 Befund
+#### 3.1 Befund
 
 - Verhaltenssüchte werden wegen Scham häufig verschwiegen und sind unterdiagnostiziert (Q: Ärzteblatt).
 - Typisch sind Bagatellisieren, Verheimlichen und schneller Rückzug bei Vorwürfen. Das ist Teil des Bildes, kein Widerstand gegen die Beratung (Q: Ärzteblatt).
@@ -170,7 +225,7 @@ Beziehungssucht, Sammeln und Horten. Horten ist als Komorbidität zur Kaufsucht 
 - Bei Sexualverhalten ist die Abgrenzung zwischen normal und krankhaft schwierig. Starkes Verlangen ist nicht automatisch eine Störung (Q: therapie.de; aponet).
 - Die Aufnahme ins ICD-11 soll laut Fachliteratur Stigma reduzieren und Behandlung verbessern (Q: Masterarbeit Wien 2025, Einschätzung).
 
-### 3.2 Besondere Stigmata
+#### 3.2 Besondere Stigmata
 
 | Verhalten | Typisches Stigma | Folge für die Beratung |
 |---|---|---|
@@ -179,7 +234,7 @@ Beziehungssucht, Sammeln und Horten. Horten ist als Komorbidität zur Kaufsucht 
 | Arbeit | Gesellschaftlich belohnt, wird kaum als Problem gesehen | Leidensdruck und Folgen erfragen, Anerkennung nicht in Frage stellen [Vorschlag] |
 | Sport | Als gesund und diszipliniert gelobt | Schmerz, Verletzung, Kontrollverlust ansprechen [Vorschlag] |
 
-### 3.3 Haltung der Beratenden [Vorschlag]
+#### 3.3 Haltung der Beratenden [Vorschlag]
 
 - Sprache: „Verhalten", „Kontrollverlust", „Leidensdruck" statt moralisch aufgeladener Begriffe.
 - Erstkontakt: Vertraulichkeit und Schweigepflicht früh erklären.
@@ -188,9 +243,9 @@ Beziehungssucht, Sammeln und Horten. Horten ist als Komorbidität zur Kaufsucht 
 
 ---
 
-## 4. Entstehung und Äusserung
+### 4. Entstehung und Äusserung
 
-### 4.1 Entstehung (Q: Ärzteblatt)
+#### 4.1 Entstehung (Q: Ärzteblatt)
 
 Ein Bedingungsgefüge aus drei Gruppen von Faktoren:
 
@@ -204,13 +259,13 @@ Ein Bedingungsgefüge aus drei Gruppen von Faktoren:
 
 Das Belohnungssystem reagiert nach dem Auftragstext ähnlich wie bei Alkohol oder Drogen. Modelle wie I-PACE sind nicht gesondert recherchiert [Lücke]. Für die Psychoedukation reicht das Bedingungsgefüge.
 
-### 4.2 Teufelskreis für die Psychoedukation [Vorschlag]
+#### 4.2 Teufelskreis für die Psychoedukation [Vorschlag]
 
 Auslöser (Gefühl, Situation, Angebot) → Drang → Verhalten → kurzfristige Erleichterung → Folgen (Geld, Beziehung, Zeit) → Scham und Anspannung → neuer Auslöser.
 
 Grafik G2 (Entstehungsmodell mit Teufelskreis): siehe Kap. 14.
 
-### 4.3 Typische Äusserungen (Q: Auftragsvorlage; Ärzteblatt)
+#### 4.3 Typische Äusserungen (Q: Auftragsvorlage; Ärzteblatt)
 
 - Kontrollverlust über Dauer, Häufigkeit, Intensität
 - Steigender Zeitaufwand, Dosissteigerung
@@ -220,9 +275,9 @@ Grafik G2 (Entstehungsmodell mit Teufelskreis): siehe Kap. 14.
 
 ---
 
-## 5. Komorbiditäten und Belastungen
+### 5. Komorbiditäten und Belastungen
 
-### 5.1 Komorbiditäten
+#### 5.1 Komorbiditäten
 
 | Verhalten | Beschriebene Komorbiditäten | Beleg |
 |---|---|---|
@@ -241,7 +296,7 @@ In einer deutschen Studie in psychosomatischen Kliniken (n = 801) bestand bei 24
 
 Bei hoher Komorbidität muss diagnostisch geklärt werden, welche Störung primär und welche sekundär ist (Q: Ärzteblatt, Kaufsucht-Artikel). In der Beratung heisst das: nicht diagnostizieren, systematisch erfragen und zuweisen (Kap. 6.2, 12).
 
-### 5.2 Belastungen
+#### 5.2 Belastungen
 
 | Bereich | Belastung | Beleg |
 |---|---|---|
@@ -252,7 +307,7 @@ Bei hoher Komorbidität muss diagnostisch geklärt werden, welche Störung prim�
 | Psychisch | Scham, Schuld, depressive Verstimmung, Suizidrisiko | Q: Ärzteblatt |
 | Umfeld | Belastung von Partnerinnen und Partnern, Kindern | Q: Fachverband Sucht |
 
-### 5.3 Suizidrisiko
+#### 5.3 Suizidrisiko
 
 | Befund | Beleg |
 |---|---|
@@ -266,9 +321,20 @@ Für Kaufsucht, Sex- und Pornografiesucht liegen keine eigenen Zahlen vor. Konse
 
 ---
 
-## 6. Beratung
+## Teil 3: Grundlagen der Beratung
 
-### 6.1 Haltung und Grundansatz
+**Inhalt dieses Teils**
+
+- [6. Beratung](#6-beratung)
+  - [6.1 Haltung und Grundansatz](#61-haltung-und-grundansatz)
+  - [6.2 Abgrenzung zur Psychotherapie](#62-abgrenzung-zur-psychotherapie)
+  - [6.3 Beratungsweg in fünf Schritten](#63-beratungsweg-in-fünf-schritten)
+  - [6.4 Technik-Katalog](#64-technik-katalog)
+  - [6.5 Rückfälle, Abbrüche, Heimlichkeit](#65-rückfälle-abbrüche-heimlichkeit)
+
+### 6. Beratung
+
+#### 6.1 Haltung und Grundansatz
 
 | Element | Inhalt | Beleg |
 |---|---|---|
@@ -278,7 +344,7 @@ Für Kaufsucht, Sex- und Pornografiesucht liegen keine eigenen Zahlen vor. Konse
 | Ambivalenz ernst nehmen | Das Verhalten bringt kurzfristig Entlastung. Betroffene kommen oft erst auf Druck oder bei Folgeproblemen | Q: Ärzteblatt |
 | Nicht-konfrontativ | Rückzug bei Vorwürfen ist typisch. Bagatellisieren und Verheimlichen gehören zum Bild | Q: Ärzteblatt |
 
-### 6.2 Abgrenzung zur Psychotherapie
+#### 6.2 Abgrenzung zur Psychotherapie
 
 Die Grenze läuft über den **Behandlungsauftrag**, nicht über die Methode (Q: Beratung–Psychotherapie). „Psychologisch arbeiten" ist nicht automatisch Psychotherapie.
 
@@ -309,7 +375,7 @@ Grafik G3 (Dreiebenenmodell): siehe Kap. 14.
 | Wunsch der Person nach Bearbeitung der Hintergründe | Information über Psychotherapie, Weiterverweisung |
 | Gesundheitsrisiko (z. B. Anabolika, Verletzungen) | Ärztliche Abklärung |
 
-### 6.3 Beratungsweg in fünf Schritten
+#### 6.3 Beratungsweg in fünf Schritten
 
 Kein starres Programm. Die Schritte sind Orientierung, Reihenfolge und Dichte richten sich nach der Person [Vorschlag]. Der Weg ist für Klienten in einer Grafik erklärt (Grafik G4a), für Beratende im Fachblatt (G4b), siehe Kap. 14.
 
@@ -323,7 +389,7 @@ Kein starres Programm. Die Schritte sind Orientierung, Reihenfolge und Dichte ri
 
 Parallel immer: Komorbidität und Suizidalität im Blick behalten, Triage-Signale prüfen (Kap. 6.2, 12).
 
-### 6.4 Technik-Katalog
+#### 6.4 Technik-Katalog
 
 Die Einstufung folgt dem Dreiebenenmodell und ist ein [Vorschlag], im Team zu bestätigen.
 
@@ -350,7 +416,7 @@ Die Einstufung folgt dem Dreiebenenmodell und ist ein [Vorschlag], im Team zu be
 
 **Wirksamkeitslage ehrlich benennen:** Für Verhaltenssüchte stützen die Quellen überwiegend kognitiv-verhaltenstherapeutische Ansätze (Q: Ärzteblatt; Springer-Übersicht). Beratende sind bei Wirkversprechen zurückhaltend.
 
-### 6.5 Rückfälle, Abbrüche, Heimlichkeit
+#### 6.5 Rückfälle, Abbrüche, Heimlichkeit
 
 - Mit erhöhter Abbruchrate, Hindernissen und Rückfällen ist zu rechnen. Störungsspezifische und störungsübergreifende Interventionen sowie Rückfallprophylaxe werden früh integriert (Q: Ärzteblatt).
 - Vorlage für „Ausrutscher": Beilagenteil „Konsumereignis: was tun?" im Alkohol-Konzept SDS (Vertrauensperson, Fachperson, Angehörige, Auslöser verstehen) [Vorschlag, übertragbar].
@@ -358,7 +424,24 @@ Die Einstufung folgt dem Dreiebenenmodell und ist ein [Vorschlag], im Team zu be
 
 ---
 
-## 7. Was wann zu erfragen ist: erste zwei Sitzungen
+## Teil 4: Vorgehensmodell
+
+**Inhalt dieses Teils**
+
+- [7. Was wann zu erfragen ist: erste zwei Sitzungen](#7-was-wann-zu-erfragen-ist-erste-zwei-sitzungen)
+  - [7.1 Sitzung 1: Ankommen, Risiko, Anliegen](#71-sitzung-1-ankommen-risiko-anliegen)
+  - [7.2 Sitzung 2: Vertiefen und Abklären](#72-sitzung-2-vertiefen-und-abklären)
+  - [7.3 Zusatzfragen je Verhalten [Vorschlag, noch auszuformulieren]](#73-zusatzfragen-je-verhalten-vorschlag-noch-auszuformulieren)
+- [8. Ziele und Fortschritt](#8-ziele-und-fortschritt)
+  - [8.1 Zielhierarchie [Vorschlag]](#81-zielhierarchie-vorschlag)
+  - [8.2 Zielinhalt: Abstinenz oder Kontrolle](#82-zielinhalt-abstinenz-oder-kontrolle)
+  - [8.3 SMART und Messgrössen [Vorschlag]](#83-smart-und-messgrössen-vorschlag)
+  - [8.4 Goal Attainment Scaling (GAS)](#84-goal-attainment-scaling-gas)
+  - [8.5 Fortschrittsbogen [Vorschlag, eigene Skala]](#85-fortschrittsbogen-vorschlag-eigene-skala)
+  - [8.6 Screening-Instrumente](#86-screening-instrumente)
+  - [8.7 Hinweise zur Messung](#87-hinweise-zur-messung)
+
+### 7. Was wann zu erfragen ist: erste zwei Sitzungen
 
 Gesprächsimpulse, kein Formular zum Abarbeiten. Aufgebaut analog zum Indikationsgespräch im Alkohol-Konzept SDS, ergänzt aus den Basler Beratungsfragen und der Ärzteblatt-Methodik. Nicht aus der Praxis-Suchtmedizin-Seite abgeleitet (nicht abrufbar); Abgleich von Hand empfohlen [Lücke].
 
@@ -383,7 +466,7 @@ flowchart TD
     N -->|nein| P[Beratung fortsetzen Schritt 3-5]
 ```
 
-### 7.1 Sitzung 1: Ankommen, Risiko, Anliegen
+#### 7.1 Sitzung 1: Ankommen, Risiko, Anliegen
 
 | Block | Impulse |
 |---|---|
@@ -396,7 +479,7 @@ flowchart TD
 | **Suizidalität/Krise** | **Immer direkt fragen.** Krisenprozedere (Kap. 13) |
 | Erstziel | Was soll sich in den nächsten Wochen verändern? |
 
-### 7.2 Sitzung 2: Vertiefen und Abklären
+#### 7.2 Sitzung 2: Vertiefen und Abklären
 
 | Block | Impulse |
 |---|---|
@@ -410,7 +493,7 @@ flowchart TD
 | Triage-Check | Signale aus Kap. 6.2 prüfen, Weiterverweisung besprechen |
 | Angehörige/Arbeitgebende | Einbezug, Einwilligung |
 
-### 7.3 Zusatzfragen je Verhalten [Vorschlag, noch auszuformulieren]
+#### 7.3 Zusatzfragen je Verhalten [Vorschlag, noch auszuformulieren]
 
 | Verhalten | Zusatzfragen |
 |---|---|
@@ -421,9 +504,9 @@ flowchart TD
 
 ---
 
-## 8. Ziele und Fortschritt
+### 8. Ziele und Fortschritt
 
-### 8.1 Zielhierarchie [Vorschlag]
+#### 8.1 Zielhierarchie [Vorschlag]
 
 Die Frage nach „Zielen zwischen Zielen" lässt sich über gestaffelte Ebenen lösen. In den Quellen belegt sind individuelle Zielvereinbarung (Basel), zieloffene Arbeit (Caritas/Körkel) und Zielerreichungsskalen (GAS). Die Staffelung selbst ist ein Vorschlag.
 
@@ -434,14 +517,14 @@ Die Frage nach „Zielen zwischen Zielen" lässt sich über gestaffelte Ebenen l
 | Handlungsziel | 1–2 Wochen | Protokoll 14 Tage, Termin Schuldenberatung | Auslöser-Protokoll, eine Alternativaktivität planen |
 | Prozessziel der Beratung | laufend | Beziehung tragfähig, Krisenplan vorhanden | dito |
 
-### 8.2 Zielinhalt: Abstinenz oder Kontrolle
+#### 8.2 Zielinhalt: Abstinenz oder Kontrolle
 
 - Kernziel der Therapie von Verhaltenssüchten ist laut Fachliteratur Abstinenz vom *problembezogenen* Verhalten. Sie ist nicht immer möglich oder sinnvoll (Einkaufen und Internet lassen sich nicht ganz meiden). Das Ausmass wird je Verhalten differenziert (Q: Ärzteblatt).
 - Kaufsucht: bestimmte Geschäfte, Portale, Marken meiden und Warenkonsum auf bedarfsgerechtes Mass beschränken. Im Vordergrund: **Kontrolle zurückgewinnen** (Q: Ärzteblatt).
 - Zieloffene Suchtarbeit: Abstinenz und Reduktion als Optionen mit motivierenden Hilfen zur Abstinenz (Q: Caritas). Für Verhaltenssüchte plausibel übertragbar [Vorschlag].
 - Ziele sollen realistisch und gut erreichbar sein, das stützt die Motivation (Q: Ärzteblatt).
 
-### 8.3 SMART und Messgrössen [Vorschlag]
+#### 8.3 SMART und Messgrössen [Vorschlag]
 
 SMART: spezifisch, messbar, attraktiv/erreichbar, realistisch, terminiert [eigenes Wissen].
 
@@ -460,7 +543,7 @@ SMART: spezifisch, messbar, attraktiv/erreichbar, realistisch, terminiert [eigen
 
 **Hinweis:** Das Alkohol-Konzept nutzt Scores und Verlaufskurven mit objektiven Markern (Entzugsscore, Atemluft). Für Verhaltenssüchte gibt es keine vergleichbaren Marker, alles beruht auf Selbstbericht. Das gehört offen in den Leitfaden, damit Zahlen nicht mehr Genauigkeit vortäuschen als sie haben [Vorschlag].
 
-### 8.4 Goal Attainment Scaling (GAS)
+#### 8.4 Goal Attainment Scaling (GAS)
 
 | Punkt | Inhalt | Beleg |
 |---|---|---|
@@ -481,7 +564,7 @@ SMART: spezifisch, messbar, attraktiv/erreichbar, realistisch, terminiert [eigen
 
 Zahlen („höchstens 2") immer **mit der Person** festlegen, nicht vorgeben.
 
-### 8.5 Fortschrittsbogen [Vorschlag, eigene Skala]
+#### 8.5 Fortschrittsbogen [Vorschlag, eigene Skala]
 
 Eigene, nicht validierte Skala, gleicher Kern für alle Verhaltenssüchte, nur für Klient und Beratende sichtbar. Details: Anleitung zum Fortschrittsbogen (Anhang, Kap. 14).
 
@@ -492,7 +575,7 @@ Eigene, nicht validierte Skala, gleicher Kern für alle Verhaltenssüchte, nur f
 
 Grundsätze: Profil statt Summenscore, die Person bewertet zuerst, Rückschritte neutral, keine Grenzwerte, keine Gamification (Kap. 8.7).
 
-### 8.6 Screening-Instrumente
+#### 8.6 Screening-Instrumente
 
 Als Gesprächsanker und Verlaufsmessung, nicht als Diagnose. Fragebögen sind für Erstscreening und Verlaufskontrolle bewährt, die Diagnose stellt das ausführliche Anamnesegespräch (Q: Thieme „Kaufsucht").
 
@@ -508,7 +591,7 @@ Als Gesprächsanker und Verlaufsmessung, nicht als Diagnose. Fragebögen sind f�
 
 **[Lücke]** Lizenz, deutsche Validierung und Cut-offs sind je Instrument vor Aufnahme zu prüfen. Keine Fragebögen ohne Klärung der Nutzungsrechte abdrucken.
 
-### 8.7 Hinweise zur Messung
+#### 8.7 Hinweise zur Messung
 
 - Selbstbeobachtungsprotokolle sind zugleich Intervention und Messinstrument (Q: Ärzteblatt).
 - Scham und Heimlichkeit verfälschen Selbstberichte. Messung darf die Beziehung nicht gefährden [Vorschlag].
@@ -517,7 +600,20 @@ Als Gesprächsanker und Verlaufsmessung, nicht als Diagnose. Fragebögen sind f�
 
 ---
 
-## 9. Betroffene: erste Schritte
+## Teil 5: Zielgruppen und Schnittstellen
+
+**Inhalt dieses Teils**
+
+- [9. Betroffene: erste Schritte](#9-betroffene-erste-schritte)
+- [10. Angehörige: erste Schritte](#10-angehörige-erste-schritte)
+  - [10.1 Belastung einordnen (Q: Fachverband Sucht; Landkreis Esslingen)](#101-belastung-einordnen-q-fachverband-sucht-landkreis-esslingen)
+  - [10.2 Was Angehörige tun können](#102-was-angehörige-tun-können)
+  - [10.3 Hinweise für Beratende](#103-hinweise-für-beratende)
+- [11. Arbeitgebende und Ausbildende](#11-arbeitgebende-und-ausbildende)
+  - [11.1 Ausgangslage](#111-ausgangslage)
+  - [11.2 Rolle und Grenzen [Vorschlag]](#112-rolle-und-grenzen-vorschlag)
+
+### 9. Betroffene: erste Schritte
 
 Textbaustein für ein Handout oder das Gespräch. Sie-Form, einfache Sprache [Vorschlag]. Belegte Bausteine: Ärzteblatt, Alkohol-Konzept SDS.
 
@@ -538,15 +634,15 @@ Was Sie erwartet: Die Beratung läuft in fünf Schritten (Ankommen, Verstehen, Z
 
 ---
 
-## 10. Angehörige: erste Schritte
+### 10. Angehörige: erste Schritte
 
 Belegt: Alkohol-Konzept SDS (Beilage), CRAFT-Quellen, FHNW, Fachverband Sucht. Eine Beratung steht Angehörigen auch ohne die betroffene Person offen [Vorschlag, gemäss Auftrag: Angebot richtet sich an Angehörige].
 
-### 10.1 Belastung einordnen (Q: Fachverband Sucht; Landkreis Esslingen)
+#### 10.1 Belastung einordnen (Q: Fachverband Sucht; Landkreis Esslingen)
 
 Stress, Scham- und Schuldgefühle, psychosomatische Beschwerden, bei Kindern besonders stark. Spannungen, Unberechenbarkeit, teils Gewalt.
 
-### 10.2 Was Angehörige tun können
+#### 10.2 Was Angehörige tun können
 
 | Schritt | Inhalt | Beleg |
 |---|---|---|
@@ -557,7 +653,7 @@ Stress, Scham- und Schuldgefühle, psychosomatische Beschwerden, bei Kindern bes
 | 5 Finanzen trennen | Schulden nicht übernehmen oder decken. Gemeinsame Konten, Haftung und Kreditkarten klären (besonders bei Kaufsucht) | [eigenes Wissen] |
 | 6 Gefährdung ernst nehmen | Bei Gewalt oder Gefährdung sofort Hilfe holen, Kinder schützen | Q: CRAFT/FHNW (Gewaltabklärung) |
 
-### 10.3 Hinweise für Beratende
+#### 10.3 Hinweise für Beratende
 
 - **CRAFT:** Nicht-konfrontativer Ansatz, der Angehörige coacht, die betroffene Person zur Beratung zu motivieren. Bei Substanzstörungen zählt eine Metaanalyse ihn zu den wirksamsten Ansätzen. Die Übertragung auf Verhaltenssüchte ist nicht belegt (Q: Thieme CRAFT; FHNW).
 - **Begriff Co-Abhängigkeit:** Konfrontative Strategien in dessen Folge sind wenig belegt, der Begriff kann Angehörige abschrecken. Neutral verwenden, Schuldzuweisungen vermeiden (Q: FHNW; Thieme; gesundheit.gv.at).
@@ -565,13 +661,13 @@ Stress, Scham- und Schuldgefühle, psychosomatische Beschwerden, bei Kindern bes
 
 ---
 
-## 11. Arbeitgebende und Ausbildende
+### 11. Arbeitgebende und Ausbildende
 
-### 11.1 Ausgangslage
+#### 11.1 Ausgangslage
 
 Basel-Stadt bietet als Referenz: Beratung und Coaching von Vorgesetzten, gemeinsames Gespräch Vorgesetzte–Mitarbeitende, Schulungen, betriebliche Suchtpräventionskonzepte. Die Beratung von Vorgesetzten im Einzelfall ist kostenlos (Q: Basel-Stadt). Das Angebot der SDS richtet sich an Arbeitgebende und Ausbildende (Auftrag).
 
-### 11.2 Rolle und Grenzen [Vorschlag]
+#### 11.2 Rolle und Grenzen [Vorschlag]
 
 | Thema | Inhalt |
 |---|---|
@@ -586,9 +682,22 @@ Basel-Stadt bietet als Referenz: Beratung und Coaching von Vorgesetzten, gemeins
 
 ---
 
-## 12. Triage: wer berät detaillierter, wo gibt es welche Angebote, was kostet es
+## Teil 6: Triage und Krisen
 
-### 12.1 Stufenmodell
+**Inhalt dieses Teils**
+
+- [12. Triage: wer berät detaillierter, wo gibt es welche Angebote, was kostet es](#12-triage-wer-berät-detaillierter-wo-gibt-es-welche-angebote-was-kostet-es)
+  - [12.1 Stufenmodell](#121-stufenmodell)
+  - [12.2 Kosten im Überblick](#122-kosten-im-überblick)
+  - [12.3 Triage-Entscheidungsbaum](#123-triage-entscheidungsbaum)
+  - [12.4 Zusammenarbeit mit Dritten [Vorschlag]](#124-zusammenarbeit-mit-dritten-vorschlag)
+- [13. Krisen und Notfälle](#13-krisen-und-notfälle)
+  - [13.1 Vorgehen bei Suizidalität [Vorschlag, hausintern zu bestätigen]](#131-vorgehen-bei-suizidalität-vorschlag-hausintern-zu-bestätigen)
+  - [13.2 Nummern (Prüfdatum erforderlich)](#132-nummern-prüfdatum-erforderlich)
+
+### 12. Triage: wer berät detaillierter, wo gibt es welche Angebote, was kostet es
+
+#### 12.1 Stufenmodell
 
 Stand der Angaben: 21.10.2026. Alle Angaben vor Weitergabe an Klienten prüfen (Telefon, Aufnahmekriterien, Kosten).
 
@@ -605,7 +714,7 @@ Stand der Angaben: 21.10.2026. Alle Angaben vor Weitergabe an Klienten prüfen (
 
 Die Angebotsliste ist mit Prüfdatum zu führen (Kap. 16). Suchtindex.ch (Infodrog) ist die nationale Referenz für substanzungebundene Süchte (Q: BAG; Kanton Aargau).
 
-### 12.2 Kosten im Überblick
+#### 12.2 Kosten im Überblick
 
 | Leistung | Kosten für die Person | Beleg |
 |---|---|---|
@@ -618,7 +727,7 @@ Die Angebotsliste ist mit Prüfdatum zu führen (Kap. 16). Suchtindex.ch (Infodr
 | Selbsthilfe | nicht geprüft | [Lücke] |
 | **Therapie und Klinik für FL-Versicherte** | **Kostenübernahme durch Krankenkassen FL und Landesbeiträge nicht geklärt** | [Lücke]. Klärung über ASD FL, Tel. +423 236 72 72 |
 
-### 12.3 Triage-Entscheidungsbaum
+#### 12.3 Triage-Entscheidungsbaum
 
 Grafik G7:
 
@@ -645,7 +754,7 @@ flowchart TD
 
 Scham und Distanz: SafeZone.ch kann als niederschwelliger Einstieg dienen. Angehörige und Arbeitgebende: Kap. 10 und 11.
 
-### 12.4 Zusammenarbeit mit Dritten [Vorschlag]
+#### 12.4 Zusammenarbeit mit Dritten [Vorschlag]
 
 - Hausärztliche Rückmeldung nur mit Einwilligung der Klientin oder des Klienten.
 - Bei Zuweisung: Übergabe mit Kurzbericht (Anliegen, Verlauf, Triage-Grund), Einwilligung dokumentieren.
@@ -653,9 +762,9 @@ Scham und Distanz: SafeZone.ch kann als niederschwelliger Einstieg dienen. Angeh
 
 ---
 
-## 13. Krisen und Notfälle
+### 13. Krisen und Notfälle
 
-### 13.1 Vorgehen bei Suizidalität [Vorschlag, hausintern zu bestätigen]
+#### 13.1 Vorgehen bei Suizidalität [Vorschlag, hausintern zu bestätigen]
 
 1. Direkt und ruhig fragen (Gedanken, Pläne, Mittel, Zeitpunkt).
 2. Risiko einschätzen, die Person nicht allein lassen, wenn akute Gefahr besteht.
@@ -666,7 +775,7 @@ Scham und Distanz: SafeZone.ch kann als niederschwelliger Einstieg dienen. Angeh
 
 Hauptbefund: Verschuldung und Scham sind die beiden beschriebenen Hauptprozesse (Kap. 5.3).
 
-### 13.2 Nummern (Prüfdatum erforderlich)
+#### 13.2 Nummern (Prüfdatum erforderlich)
 
 | Nummer | Dienst | Beleg |
 |---|---|---|
@@ -685,9 +794,19 @@ Hauptbefund: Verschuldung und Scham sind die beiden beschriebenen Hauptprozesse 
 
 ---
 
-## 14. Grafiken und Anhang
+## Teil 7: Anhang und offene Punkte
 
-### 14.1 Grafikübersicht
+**Inhalt dieses Teils**
+
+- [14. Grafiken und Anhang](#14-grafiken-und-anhang)
+  - [14.1 Grafikübersicht](#141-grafikübersicht)
+  - [14.2 Weitere Anhänge](#142-weitere-anhänge)
+- [15. Quellen](#15-quellen)
+- [16. Offene Punkte](#16-offene-punkte)
+
+### 14. Grafiken und Anhang
+
+#### 14.1 Grafikübersicht
 
 | Nr. | Grafik | Kap. | Ort |
 |---|---|---|---|
@@ -703,14 +822,14 @@ Hauptbefund: Verschuldung und Scham sind die beiden beschriebenen Hauptprozesse 
 
 Die Artefakte sind privat und nur über das Share-Menü der jeweiligen Seite freizugeben. Die Mermaid-Grafiken erscheinen in Markdown-Vorschauen mit Mermaid-Unterstützung als Bild, sonst als Quelltext.
 
-### 14.2 Weitere Anhänge
+#### 14.2 Weitere Anhänge
 
 - Anleitung zum Fortschrittsbogen: Datei `Anleitung_Fortschrittsbogen.md`.
 - Recherche-Grundlage: Datei `Recherche_Verhaltenssuechte_Beratung.md`.
 
 ---
 
-## 15. Quellen
+### 15. Quellen
 
 Die Quellenliste der Recherche gilt unverändert (unten). Ergänzt um die Triage-Recherche vom 21.10.2026:
 
@@ -766,7 +885,7 @@ Die Quellenliste der Recherche gilt unverändert (unten). Ergänzt um die Triage
 
 ---
 
-## 16. Offene Punkte
+### 16. Offene Punkte
 
 | Nr. | Offen | Vorschlag |
 |---|---|---|
